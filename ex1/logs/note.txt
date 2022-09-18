@@ -1,0 +1,8 @@
+Terminal: macOS, version: 12.2.1, build version: 21D62
+Github url: https://github.com/farhanhaider1/cisc3142.git
+Git: git version 2.32.1 (Apple Git-133)
+GNU Make: 3.81
+gcc version: Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+Code editor: Visual Studio Code, version: Version: 1.71.0
+		Download url: https://code.visualstudio.com/
+Text Editor: textEdit Mac 
