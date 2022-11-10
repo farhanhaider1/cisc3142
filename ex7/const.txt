@@ -1,0 +1,17 @@
+1)
+	void Sample(){
+		x=0;
+		y=0;
+	}
+
+2)
+    void Sample(int num){
+		x = num;
+		y = 0;
+	}
+
+3)
+    void Sample(int num, double num2){
+		x = num;
+		y = num2;
+	}
