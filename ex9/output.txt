@@ -1,0 +1,20 @@
+Farhan Haider
+
+avg: 64.7778
+
+avg for Mar:  43
+avg for Apr:  50
+avg for May:  60
+avg for Jun:  70
+avg for Jul:  78
+avg for Aug:  81
+avg for Sep:  80
+
+
+Weighted moving average for Jan is:  45.5
+Weighted moving average for Feb is:  53.6667
+Weighted moving average for Mar is:  63.8333
+Weighted moving average for Apr is:  73.1667
+Weighted moving average for May is:  80.6667
+Weighted moving average for Jun is:  82
+Weighted moving average for Jul is:  79.1667
